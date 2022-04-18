@@ -16,10 +16,13 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@mantine/core": "^4.1.4",
+    "@mantine/hooks": "^4.1.4",
     "gatsby": "^4.12.1",
     "gatsby-plugin-mantine": "^4.0.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "tabler-icons-react": "^1.45.0"
   },
   "devDependencies": {
     "@types/node": "^17.0.23",
